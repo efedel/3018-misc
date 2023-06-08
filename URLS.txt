@@ -1,0 +1,28 @@
+CNC3-3018Pro (Documentation)
+	 https://github.com/eneus/CNC3-3018Pro
+
+Candle (Linux-Native, Windows)
+	https://github.com/Denvi/Candle
+
+LaserGRBL-4.9.4 (Linux-WINE, Windows) - Mono
+	https://github.com/arkypita/LaserGRBL/releases
+	http://lasergrbl.com
+
+bCNC (Linux, Windows)
+	https://pypi.org/project/bCNC/
+
+OpenCNCPilot-1.5.12 (Windows) - Mono
+	https://github.com/martin2250/OpenCNCPilot
+
+gcodetools (Linux-Native, Windows) Inkscape extension
+	https://github.com/cnc-club/gcodetools
+	http://www.cnc-club.ru/forum/viewtopic.php?t=35
+
+inkcut (Linux-Native, Windows) Inkscape extension 
+	https://github.com/codelv/inkcut
+
+UGS Universal GCode Sender (Linux-Native, Windows) - Java	
+	https://winder.github.io/ugs_website/
+
+NCnetic (Windows)
+	https://ncnetic.com/
