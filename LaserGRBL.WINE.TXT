@@ -7,12 +7,13 @@ WINEPREFIX=~/.wine32 WINEARCH=win32 winecfg
 # Install 4.5.6 Mono using winetricks:
 WINEPREFIX=~/.wine32 ./winetricks --force dotnet45
 
+
 # (optional?) Install system Mono:
 msitools  mono-complete libmono-corlib4.5-cil
 
-# (ptional?)  apt-packages:
-wget https://dl.winehq.org/wine/wine-mono/4.5.6/wine-mono-4.5.6.msi   
+# (optional?) Install 4.5 as WINE Mono:
 WINEPREFIX=~/.wine32 wine msiexec /i wine-mono-4.5.6.msi
+wget https://dl.winehq.org/wine/wine-mono/4.5.6/wine-mono-4.5.6.msi   
 
 # Run LaserGBL install.exe :
 WINEPREFIX=~/.wine32 wine downloads/install-laserGRBL.exe
